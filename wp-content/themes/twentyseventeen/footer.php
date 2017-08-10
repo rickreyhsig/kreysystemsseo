@@ -18,7 +18,7 @@
 
 		<footer id="colophon" class="site-footer" role="contentinfo">
 			<div class="wrap">
-				<p>Show me SEO, LLC</p>
+				<p>Show me SEO LLC</p>
 
 				<?php
 				get_template_part( 'template-parts/footer/footer', 'widgets' );
