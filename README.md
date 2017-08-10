@@ -1,5 +1,6 @@
 # Welcome to ShowMeSeo
 
-An <a href='http://showmeseo.ml/'>Silver Spring SEO</a>
+Visit us at <a href='http://showmeseo.ml/silver-spring-search-marketing'>ShowMeSEO.ml</a>
 
-<a href='http://showmeseo.ml/silver-spring-search-marketing'>ShowMeSEO.ml</a>
+(<a href='http://showmeseo.ml/'>Silver Spring SEO</a>)
+
