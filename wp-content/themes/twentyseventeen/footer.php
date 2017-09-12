@@ -18,7 +18,24 @@
 
 		<footer id="colophon" class="site-footer" role="contentinfo">
 			<div class="wrap">
-				<p>Show me SEO LLC</p>
+				<p>KreySystems SEO LLC </p>
+<a href='https://www.facebook.com/kreysystemsseo/' style="">
+<i class="fa fa-facebook" aria-hidden="true"></i></a> 
+
+<a href ='https://www.yelp.com/biz/kreysystems-seo-silver-spring' style="margin-left:40px;"> 
+<i class="fa fa-yelp" aria-hidden="true"></i> </a>
+
+<a href ='https://linkedin.com/company/kreysystemsseo' style="margin-left:40px;">
+<i class="fa fa-linkedin" aria-hidden="true"></i> </a>
+
+<a href ='https://plus.google.com/u/1/116028481102208174484' style="margin-left:40px;">
+<i class="fa fa-google-plus" aria-hidden="true"></i> </a>
+
+<a href ='https://twitter.com/kreysystemsseo' style="margin-left:40px;">
+<i class="fa fa-twitter" aria-hidden="true"></i> </a>
+
+<a href ='https://www.pinterest.com/kreysystemsseo/' style="margin-left:40px;">
+<i class="fa fa-pinterest" aria-hidden="true"></i> </a>
 
 				<?php
 				get_template_part( 'template-parts/footer/footer', 'widgets' );

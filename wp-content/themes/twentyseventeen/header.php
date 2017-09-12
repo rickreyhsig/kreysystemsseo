@@ -17,7 +17,10 @@
 <head>
 <meta charset="<?php bloginfo( 'charset' ); ?>">
 <meta name="google-site-verification" content="H-s7gXOFflnfUZXx1EsyvB-ycvex-0Ygnjsy__7m_jI" />
+<meta name="google-site-verification" content="wnONN9cLnxdBNZmX4sjE6U_UOI4APvGehGPv3wXoI-w" />
 <meta name="p:domain_verify" content="8a9ebea0112441aab36411d79533e111"/>
+<meta name="myblogu-verification" content="ZTgzYTc5ZDlmZDQ2MzI5Y2MyYjBlYjM2ODY4MGJmOGM=" />
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="profile" href="http://gmpg.org/xfn/11">
 
